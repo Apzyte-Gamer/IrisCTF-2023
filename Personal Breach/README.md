@@ -35,3 +35,7 @@ Then after doing some maths, I found Iris's age! 2023 - 1996 = `27`.
 Now was time to find her hospital. So I searched through Elaina's posts again and found a post giving her hospital's image. I then went on google image search and found the hospital's exact name! `Lenox Hill Hospital`.
 
 Finally, we had to find Iris's workplace. So I went to Linkedin (because Linkedin = jobs) and searched for Iris Stein and found [her page](https://www.linkedin.com/in/iris-stein-57894b2a7/). In there, I found her workplace! `Mountain Peak Hiring Agency`.
+
+I put all that data in the website and got the flag!
+
+`irisctf{s0c1al_m3d1a_1s_an_1nf3cti0n}`
