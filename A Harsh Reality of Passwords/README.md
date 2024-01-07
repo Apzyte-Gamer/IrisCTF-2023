@@ -51,7 +51,7 @@ I was now ready for the final part, the coding.
 
 Using my wordlist and my suffixes, I made a simple python program to generate all possible cases in the `Word1Word2Word3Numbers` format.
 
-```
+```python
 from itertools import permutations
 
 # suffix of 8041965, 0841965, 4081965, 0481965
@@ -66,7 +66,7 @@ combinations_array = list(combinations)
 
 Now that I got all the possible combinations, I just had to check if the bcrypt hash was the same as one of the possibilities. Therefore, I created a final script that would check all of that.
 
-```
+```python
 import bcrypt
 from itertools import permutations
 
