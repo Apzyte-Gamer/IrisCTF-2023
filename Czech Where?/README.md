@@ -22,5 +22,6 @@ The street name was `Zlatá ulička u Daliborky`.
 
 I formatted the street name to the appropriate format and wrapped it in `irisctf{}`.
 
-Hence the flag:
+And there it was!
+
 `irisctf{zlata_ulicka_u_daliborky}`
