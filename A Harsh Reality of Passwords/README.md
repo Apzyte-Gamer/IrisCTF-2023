@@ -42,3 +42,7 @@ After several rounds of this, I got my wordlist:
 "Netherland",
 "Italy"
 ```
+
+Then I again looked at the question and found out that the plaintext password was in the format `Word1Word2Word3Numbers`.
+
+By this, I guessed that the numbers could only be Elaina's (Iris's mother) DOB (since mom's are the most important :)). I got Elaina's DOB through her [Facebook page](https://www.facebook.com/profile.php?id=61555040318052). April 8, 1965. I then formatted `April 8, 1965` to 4 combinations. `0841965`, `8041965`, `0481965` and `4081965`. 2 American formatted and 2 Indian formatted.
