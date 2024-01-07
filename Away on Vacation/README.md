@@ -11,3 +11,13 @@ By - Lychi
 
 Solution
 =
+
+Upon first reading the question, I noticed the email `michelangelocorning0490@gmail.com`. I then quickly mailed `michelangelocorning0490@gmail.com` a random text and here's the response he gave me -
+
+```
+Dear,
+
+Thank you for the email, I'm currently away on vacation to celebrate New Years! If you would like a quicker response, feel free to reach out to my social media. I mostly talk about birds on it. 
+
+Have a great start to the year, and take care!
+```
