@@ -12,7 +12,9 @@ By - Lychi
 Solution
 =
 
-Upon first reading the question, I noticed the email `michelangelocorning0490@gmail.com`. I then quickly mailed `michelangelocorning0490@gmail.com` a random text and here's the response he gave me -
+Upon first reading the question, I quickly unzipped every file and saw the [beepboopbeep.mp3](./beepboopbeep.mp3) file. I listened and realised it was the spoken version of the transcript given.
+
+Then I noticed the email `michelangelocorning0490@gmail.com` and quickly mailed `michelangelocorning0490@gmail.com` a random text and here's the response he gave me -
 
 ```
 Dear,
