@@ -5,6 +5,9 @@ Iris and her assistant are away on vacation. She left an audio message explainin
 
 Transcript: Hello, you’ve reached Iris Stein, head of the HR department! I’m currently away on vacation, please contact my assistant Michel. You can reach out to him at michelangelocorning0490@gmail.com. Have a good day and take care.
 
-File - 
+File - [away-on-vacation.tar.gz](./away-on-vacation.tar.gz)
 
 By - Lychi
+
+Solution
+=
