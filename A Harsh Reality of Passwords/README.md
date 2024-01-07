@@ -18,3 +18,7 @@ Hi everyone, here are hints for the last osint challenge with the password hash.
  
 If you find a specific date, do not include the month'a name into your word list. Just use the numbers!!
 ```
+
+Hint - Please, don't spend time looking for database breaches.
+
+By - Lychi
