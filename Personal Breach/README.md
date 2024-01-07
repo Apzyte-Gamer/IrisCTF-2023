@@ -28,3 +28,10 @@ Mimosas are one of my favorite drinks, good thing I'm on vacation. We should com
 ```
 
 This made it clear that `Elaina Stein` was Iris's mother and that she wasn't on Instagram. As my gut told me, I went to Facebook (moms = facebook lol), and searched for `Elaina Stein` and boom, I found [her](https://www.facebook.com/profile.php?id=61555040318052)!
+
+Then I searched through Elaina's page (i am a stalker now lol) and found Iris's Birthdate (April 27, 1996)!
+Then after doing some maths, I found Iris's age! 2023 - 1996 = `27`.
+
+Now was time to find her hospital. So I searched through Elaina's posts again and found a post giving her hospital's image. I then went on google image search and found the hospital's exact name! `Lenox Hill Hospital`.
+
+Finally, we had to find Iris's workplace. So I went to Linkedin (because Linkedin = jobs) and searched for Iris Stein and found [her page](https://www.linkedin.com/in/iris-stein-57894b2a7/). In there, I found her workplace! `Mountain Peak Hiring Agency`.
