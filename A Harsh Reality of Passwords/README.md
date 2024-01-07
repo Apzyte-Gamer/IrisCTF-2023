@@ -88,3 +88,9 @@ for combination in combinations_array:
     if bcrypt.checkpw(combination_bytes, bcrypt_hash.encode('utf-8')):
         print(f"The combination '{combination}' matches the provided bcrypt hash.")
 ```
+
+And after running the code, I got the combination which was bcrypted as `$2b$04$DkQOnBXHNLw2cnsmSEdM0uyN3NHLUb9I5IIUF3akpLwoy7dlhgyEC`. `PortofinoItalyTiramisu0481965`.
+
+I then quickly wrapped it in `irisctf{}` and I had my answer!
+
+`irisctf{PortofinoItalyTiramisu0481965}`
