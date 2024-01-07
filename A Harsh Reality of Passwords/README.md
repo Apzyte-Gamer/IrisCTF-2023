@@ -49,7 +49,7 @@ By this, I guessed that the numbers could only be Elaina's (Iris's mother) DOB (
 
 I was now ready for the final part, the coding.
 
-Using my wordlist and my suffixes, I made a simple python program to generate all possible cases in the `Word1Word2Word3Numbers` format.
+Using my wordlist and my suffixes, I made a simple [python program](./combinations.py) to generate all possible cases in the `Word1Word2Word3Numbers` format.
 
 ```python
 from itertools import permutations
@@ -64,7 +64,7 @@ combinations = [''.join(p) + suffix for p in permutations(wordlist, 3)]
 combinations_array = list(combinations)
 ```
 
-Now that I got all the possible combinations, I just had to check if the bcrypt hash was the same as one of the possibilities. Therefore, I created a final script that would check all of that.
+Now that I got all the possible combinations, I just had to check if the bcrypt hash was the same as one of the possibilities. Therefore, I created a [final script](./Solver.py) that would check all of that.
 
 ```python
 import bcrypt
