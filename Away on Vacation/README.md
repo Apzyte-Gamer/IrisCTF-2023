@@ -23,3 +23,19 @@ Have a great start to the year, and take care!
 ```
 
 The response included `feel free to reach out to my social media`. So, I quickly went to Instagram (a guess) and typed in various usernames like `michelangelocorning`, `michel_angelo_corning` and others until finally `michelangelo_corning` actually gave his [Instagram user](https://www.instagram.com/michelangelo_corning/).
+
+I then glided through his posts until finally, I found a special post, containing the text -
+
+```
+Eyes in The Sky
+
+There are a lot of conspiracy theories about birds being drones for the government. But what's the difference with social media?
+
+Our data is monitored, collected, and utilized for what people believe is the 'bigger picture' of the holy algorithm. Curated feeds and targeted ads are merely the curtains; it is the invisible hand that draws back the curtain to expose what's on stage.
+
+irisctf{pub1ic_4cc0unt5_4r3_51tt1ng_duck5}
+```
+
+And there it was!
+
+`irisctf{pub1ic_4cc0unt5_4r3_51tt1ng_duck5}`
