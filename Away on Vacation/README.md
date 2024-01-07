@@ -21,3 +21,5 @@ Thank you for the email, I'm currently away on vacation to celebrate New Years! 
 
 Have a great start to the year, and take care!
 ```
+
+The response included `feel free to reach out to my social media`. So, I quickly went to Instagram (a guess) and typed in various usernames like `michelangelocorning`, `michel_angelo_corning` and others until finally `michelangelo_corning` actually gave his [Instagram user](instagram.com/michelangelo_corning/).
