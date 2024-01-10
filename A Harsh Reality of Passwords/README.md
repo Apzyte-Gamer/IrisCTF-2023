@@ -30,7 +30,7 @@ By looking at the hash, I figured it was a bcrypt hash and couldn't be decoded u
 
 I went to [Iris's instagram page](https://www.instagram.com/irisstein_station) (got from `Personal Breach`) and looked at each of her posts and asking myself `what does Iris find important`.
 
-After several rounds of this, I got my wordlist:
+After several rounds of asking and writing and asking and writing, I got my wordlist:
 
 ```
 "Tiramisu",
@@ -45,7 +45,7 @@ After several rounds of this, I got my wordlist:
 
 Then I again looked at the question and found out that the plaintext password was in the format `Word1Word2Word3Numbers`.
 
-By this, I guessed that the numbers could only be Elaina's (Iris's mother) DOB (since mom's are the most important :)). I got Elaina's DOB through her [Facebook page](https://www.facebook.com/profile.php?id=61555040318052) (got from `Personal Breach`), April 8, 1965. I then formatted `April 8, 1965` to 4 combinations. `0841965`, `8041965`, `0481965` and `4081965`. 2 American formatted and 2 Indian formatted.
+By this, I guessed that the numbers could only be Elaina's (Iris's mother) DOB (since mom's are the most important :) and mom's are important). I got Elaina's DOB through her [Facebook page](https://www.facebook.com/profile.php?id=61555040318052) (got from `Personal Breach`), April 8, 1965. I then formatted `April 8, 1965` to 4 combinations. `0841965`, `8041965`, `0481965` and `4081965`. 2 American formatted and 2 Indian formatted.
 
 I was now ready for the final part, the coding.
 
