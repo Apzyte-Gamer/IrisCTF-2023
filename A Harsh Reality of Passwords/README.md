@@ -26,7 +26,7 @@ By - Lychi
 Solution
 =
 
-By looking at the hash, I figured it was a bcrypt hash and couldn't be decoded unless we actually knew the plaintext. This wasn't the case so I focused at the hint and figured I had to make a wordlist of what Iris found important.
+By looking at the hash, I figured it was a [Bcrypt Hash](https://en.wikipedia.org/wiki/Bcrypt) and couldn't be decoded unless we actually knew the plaintext. This wasn't the case so I focused at the hint and figured I had to make a wordlist of what Iris found important.
 
 I went to [Iris's instagram page](https://www.instagram.com/irisstein_station) (got from `Personal Breach`) and looked at each of her posts and asking myself `what does Iris find important`.
 
