@@ -28,6 +28,8 @@ The response included `feel free to reach out to my social media`. So, I quickly
 
 I then glided through his posts until finally, I found a [special post](./ThePost.png), containing the text -
 
+![ThePost](./ThePost.png)
+
 ```
 Eyes in The Sky
 
